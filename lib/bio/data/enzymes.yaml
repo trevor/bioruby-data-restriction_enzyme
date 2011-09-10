@@ -1,0 +1,7811 @@
+---
+AanI:
+  :name: AanI
+  :pattern: TTATAA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+AarI:
+  :name: AarI
+  :pattern: CACCTGC
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '11'
+  :c2: '15'
+  :c3: '0'
+  :c4: '0'
+AasI:
+  :name: AasI
+  :pattern: GACNNNNNNGTC
+  :len: '12'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+AatI:
+  :name: AatI
+  :pattern: AGGCCT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+AatII:
+  :name: AatII
+  :pattern: GACGTC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+AbsI:
+  :name: AbsI
+  :pattern: CCTCGAGG
+  :len: '8'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+AccI:
+  :name: AccI
+  :pattern: GTMKAC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+AccII:
+  :name: AccII
+  :pattern: CGCG
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '2'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+AccIII:
+  :name: AccIII
+  :pattern: TCCGGA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Acc16I:
+  :name: Acc16I
+  :pattern: TGCGCA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+Acc36I:
+  :name: Acc36I
+  :pattern: ACCTGC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '10'
+  :c2: '14'
+  :c3: '0'
+  :c4: '0'
+Acc65I:
+  :name: Acc65I
+  :pattern: GGTACC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+AccB1I:
+  :name: AccB1I
+  :pattern: GGYRCC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+AccB7I:
+  :name: AccB7I
+  :pattern: CCANNNNNTGG
+  :len: '11'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+AccBSI:
+  :name: AccBSI
+  :pattern: CCGCTC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+AceIII:
+  :name: AceIII
+  :pattern: cagctc
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '13'
+  :c2: '17'
+  :c3: '0'
+  :c4: '0'
+AciI:
+  :name: AciI
+  :pattern: CCGC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+AclI:
+  :name: AclI
+  :pattern: AACGTT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+AclWI:
+  :name: AclWI
+  :pattern: GGATC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '9'
+  :c2: '10'
+  :c3: '0'
+  :c4: '0'
+AcoI:
+  :name: AcoI
+  :pattern: YGGCCR
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+AcsI:
+  :name: AcsI
+  :pattern: RAATTY
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+AcuI:
+  :name: AcuI
+  :pattern: CTGAAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '22'
+  :c2: '20'
+  :c3: '0'
+  :c4: '0'
+AcvI:
+  :name: AcvI
+  :pattern: CACGTG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+AcyI:
+  :name: AcyI
+  :pattern: GRCGYC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+AdeI:
+  :name: AdeI
+  :pattern: CACNNNGTG
+  :len: '9'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '6'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+AfaI:
+  :name: AfaI
+  :pattern: GTAC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '2'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+AfeI:
+  :name: AfeI
+  :pattern: AGCGCT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+AfiI:
+  :name: AfiI
+  :pattern: CCNNNNNNNGG
+  :len: '11'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+AflII:
+  :name: AflII
+  :pattern: CTTAAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+AflIII:
+  :name: AflIII
+  :pattern: ACRYGT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+AgeI:
+  :name: AgeI
+  :pattern: ACCGGT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+AgsI:
+  :name: AgsI
+  :pattern: TTSAA
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '3'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+AhaIII:
+  :name: AhaIII
+  :pattern: tttaaa
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+AhdI:
+  :name: AhdI
+  :pattern: GACNNNNNGTC
+  :len: '11'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '6'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+AhlI:
+  :name: AhlI
+  :pattern: ACTAGT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+AjiI:
+  :name: AjiI
+  :pattern: CACGTC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+AjnI:
+  :name: AjnI
+  :pattern: CCWGG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+AjuI:
+  :name: AjuI
+  :pattern: GAANNNNNNNTTGG
+  :len: '14'
+  :ncuts: '4'
+  :blunt: '0'
+  :c1: '-8'
+  :c2: '-13'
+  :c3: '25'
+  :c4: '20'
+AleI:
+  :name: AleI
+  :pattern: CACNNNNGTG
+  :len: '10'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '5'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+AlfI:
+  :name: AlfI
+  :pattern: GCANNNNNNTGC
+  :len: '12'
+  :ncuts: '4'
+  :blunt: '0'
+  :c1: '-11'
+  :c2: '-13'
+  :c3: '24'
+  :c4: '22'
+AloI:
+  :name: AloI
+  :pattern: GAACNNNNNNTCC
+  :len: '13'
+  :ncuts: '4'
+  :blunt: '0'
+  :c1: '-8'
+  :c2: '-13'
+  :c3: '25'
+  :c4: '20'
+AluI:
+  :name: AluI
+  :pattern: AGCT
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '2'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+AluBI:
+  :name: AluBI
+  :pattern: AGCT
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '2'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+AlwI:
+  :name: AlwI
+  :pattern: GGATC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '9'
+  :c2: '10'
+  :c3: '0'
+  :c4: '0'
+Alw21I:
+  :name: Alw21I
+  :pattern: GWGCWC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+Alw26I:
+  :name: Alw26I
+  :pattern: GTCTC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '6'
+  :c2: '10'
+  :c3: '0'
+  :c4: '0'
+Alw44I:
+  :name: Alw44I
+  :pattern: GTGCAC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+AlwFI:
+  :name: AlwFI
+  :pattern: gaaaynnnnnrtg
+  :len: '13'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+AlwNI:
+  :name: AlwNI
+  :pattern: CAGNNNCTG
+  :len: '9'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '6'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+Ama87I:
+  :name: Ama87I
+  :pattern: CYCGRG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Aor13HI:
+  :name: Aor13HI
+  :pattern: TCCGGA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Aor51HI:
+  :name: Aor51HI
+  :pattern: AGCGCT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+AoxI:
+  :name: AoxI
+  :pattern: ggcc
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+ApaI:
+  :name: ApaI
+  :pattern: GGGCCC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+ApaBI:
+  :name: ApaBI
+  :pattern: gcannnnntgc
+  :len: '11'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '8'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+ApaLI:
+  :name: ApaLI
+  :pattern: GTGCAC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+ApeKI:
+  :name: ApeKI
+  :pattern: GCWGC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+ApoI:
+  :name: ApoI
+  :pattern: RAATTY
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+ApyPI:
+  :name: ApyPI
+  :pattern: atcgac
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '26'
+  :c2: '24'
+  :c3: '0'
+  :c4: '0'
+AquII:
+  :name: AquII
+  :pattern: gccgnac
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '27'
+  :c2: '25'
+  :c3: '0'
+  :c4: '0'
+AquIII:
+  :name: AquIII
+  :pattern: gaggag
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '26'
+  :c2: '24'
+  :c3: '0'
+  :c4: '0'
+AquIV:
+  :name: AquIV
+  :pattern: grggaag
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '26'
+  :c2: '24'
+  :c3: '0'
+  :c4: '0'
+ArsI:
+  :name: ArsI
+  :pattern: GACNNNNNNTTYG
+  :len: '13'
+  :ncuts: '4'
+  :blunt: '0'
+  :c1: '-9'
+  :c2: '-14'
+  :c3: '24'
+  :c4: '19'
+AscI:
+  :name: AscI
+  :pattern: GGCGCGCC
+  :len: '8'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+AseI:
+  :name: AseI
+  :pattern: ATTAAT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+Asi256I:
+  :name: Asi256I
+  :pattern: gatc
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+AsiGI:
+  :name: AsiGI
+  :pattern: ACCGGT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+AsiSI:
+  :name: AsiSI
+  :pattern: GCGATCGC
+  :len: '8'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+AspI:
+  :name: AspI
+  :pattern: GACNNNGTC
+  :len: '9'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Asp700I:
+  :name: Asp700I
+  :pattern: GAANNNNTTC
+  :len: '10'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '5'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Asp718I:
+  :name: Asp718I
+  :pattern: GGTACC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+AspA2I:
+  :name: AspA2I
+  :pattern: CCTAGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+AspBHI:
+  :name: AspBHI
+  :pattern: yscns
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '13'
+  :c2: '17'
+  :c3: '0'
+  :c4: '0'
+AspCNI:
+  :name: AspCNI
+  :pattern: gccgc
+  :len: '5'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+AspEI:
+  :name: AspEI
+  :pattern: GACNNNNNGTC
+  :len: '11'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '6'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+AspLEI:
+  :name: AspLEI
+  :pattern: GCGC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '3'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+AspS9I:
+  :name: AspS9I
+  :pattern: GGNCC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+AssI:
+  :name: AssI
+  :pattern: AGTACT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+AsuI:
+  :name: AsuI
+  :pattern: ggncc
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+AsuII:
+  :name: AsuII
+  :pattern: TTCGAA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+AsuC2I:
+  :name: AsuC2I
+  :pattern: CCSGG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+AsuHPI:
+  :name: AsuHPI
+  :pattern: GGTGA
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '13'
+  :c2: '12'
+  :c3: '0'
+  :c4: '0'
+AsuNHI:
+  :name: AsuNHI
+  :pattern: GCTAGC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+AvaI:
+  :name: AvaI
+  :pattern: CYCGRG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+AvaII:
+  :name: AvaII
+  :pattern: GGWCC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+AvaIII:
+  :name: AvaIII
+  :pattern: atgcat
+  :len: '6'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+AviII:
+  :name: AviII
+  :pattern: TGCGCA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+AvrII:
+  :name: AvrII
+  :pattern: CCTAGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+AxyI:
+  :name: AxyI
+  :pattern: CCTNAGG
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BaeI:
+  :name: BaeI
+  :pattern: ACNNNNGTAYC
+  :len: '11'
+  :ncuts: '4'
+  :blunt: '0'
+  :c1: '-11'
+  :c2: '-16'
+  :c3: '23'
+  :c4: '18'
+BaeGI:
+  :name: BaeGI
+  :pattern: GKGCMC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+BalI:
+  :name: BalI
+  :pattern: TGGCCA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+BamHI:
+  :name: BamHI
+  :pattern: GGATCC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BanI:
+  :name: BanI
+  :pattern: GGYRCC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BanII:
+  :name: BanII
+  :pattern: GRGCYC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+BanIII:
+  :name: BanIII
+  :pattern: ATCGAT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+BarI:
+  :name: BarI
+  :pattern: GAAGNNNNNNTAC
+  :len: '13'
+  :ncuts: '4'
+  :blunt: '0'
+  :c1: '-8'
+  :c2: '-13'
+  :c3: '25'
+  :c4: '20'
+BasI:
+  :name: BasI
+  :pattern: CCANNNNNTGG
+  :len: '11'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+BauI:
+  :name: BauI
+  :pattern: CACGAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BbeI:
+  :name: BbeI
+  :pattern: ggcgcc
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+Bbr7I:
+  :name: Bbr7I
+  :pattern: gaagac
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '13'
+  :c2: '17'
+  :c3: '0'
+  :c4: '0'
+BbrPI:
+  :name: BbrPI
+  :pattern: CACGTG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+BbsI:
+  :name: BbsI
+  :pattern: GAAGAC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '8'
+  :c2: '12'
+  :c3: '0'
+  :c4: '0'
+BbuI:
+  :name: BbuI
+  :pattern: GCATGC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+BbvI:
+  :name: BbvI
+  :pattern: GCAGC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '13'
+  :c2: '17'
+  :c3: '0'
+  :c4: '0'
+BbvII:
+  :name: BbvII
+  :pattern: gaagac
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '8'
+  :c2: '12'
+  :c3: '0'
+  :c4: '0'
+Bbv12I:
+  :name: Bbv12I
+  :pattern: GWGCWC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+BbvCI:
+  :name: BbvCI
+  :pattern: CCTCAGC
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BccI:
+  :name: BccI
+  :pattern: CCATC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '9'
+  :c2: '10'
+  :c3: '0'
+  :c4: '0'
+Bce83I:
+  :name: Bce83I
+  :pattern: cttgag
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '22'
+  :c2: '20'
+  :c3: '0'
+  :c4: '0'
+BceAI:
+  :name: BceAI
+  :pattern: ACGGC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '17'
+  :c2: '19'
+  :c3: '0'
+  :c4: '0'
+BcefI:
+  :name: BcefI
+  :pattern: acggc
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '17'
+  :c2: '18'
+  :c3: '0'
+  :c4: '0'
+BcgI:
+  :name: BcgI
+  :pattern: CGANNNNNNTGC
+  :len: '12'
+  :ncuts: '4'
+  :blunt: '0'
+  :c1: '-11'
+  :c2: '-13'
+  :c3: '24'
+  :c4: '22'
+BciT130I:
+  :name: BciT130I
+  :pattern: CCWGG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+BciVI:
+  :name: BciVI
+  :pattern: GTATCC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '12'
+  :c2: '11'
+  :c3: '0'
+  :c4: '0'
+BclI:
+  :name: BclI
+  :pattern: TGATCA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BcnI:
+  :name: BcnI
+  :pattern: CCSGG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+BcoDI:
+  :name: BcoDI
+  :pattern: GTCTC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '6'
+  :c2: '10'
+  :c3: '0'
+  :c4: '0'
+BcuI:
+  :name: BcuI
+  :pattern: ACTAGT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BdaI:
+  :name: BdaI
+  :pattern: TGANNNNNNTCA
+  :len: '12'
+  :ncuts: '4'
+  :blunt: '0'
+  :c1: '-11'
+  :c2: '-13'
+  :c3: '24'
+  :c4: '22'
+BetI:
+  :name: BetI
+  :pattern: wccggw
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BfaI:
+  :name: BfaI
+  :pattern: CTAG
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+BfiI:
+  :name: BfiI
+  :pattern: ACTGGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '11'
+  :c2: '10'
+  :c3: '0'
+  :c4: '0'
+BfmI:
+  :name: BfmI
+  :pattern: CTRYAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BfoI:
+  :name: BfoI
+  :pattern: RGCGCY
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+BfrI:
+  :name: BfrI
+  :pattern: CTTAAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BfuI:
+  :name: BfuI
+  :pattern: GTATCC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '12'
+  :c2: '11'
+  :c3: '0'
+  :c4: '0'
+BfuAI:
+  :name: BfuAI
+  :pattern: ACCTGC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '10'
+  :c2: '14'
+  :c3: '0'
+  :c4: '0'
+BfuCI:
+  :name: BfuCI
+  :pattern: GATC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+BglI:
+  :name: BglI
+  :pattern: GCCNNNNNGGC
+  :len: '11'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+BglII:
+  :name: BglII
+  :pattern: AGATCT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BinI:
+  :name: BinI
+  :pattern: ggatc
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '9'
+  :c2: '10'
+  :c3: '0'
+  :c4: '0'
+BisI:
+  :name: BisI
+  :pattern: GCNGC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+BlnI:
+  :name: BlnI
+  :pattern: CCTAGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BlpI:
+  :name: BlpI
+  :pattern: GCTNAGC
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BlsI:
+  :name: BlsI
+  :pattern: GCNGC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '3'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+BmcAI:
+  :name: BmcAI
+  :pattern: AGTACT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+Bme18I:
+  :name: Bme18I
+  :pattern: GGWCC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+Bme1390I:
+  :name: Bme1390I
+  :pattern: CCNGG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+BmeRI:
+  :name: BmeRI
+  :pattern: GACNNNNNGTC
+  :len: '11'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '6'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BmeT110I:
+  :name: BmeT110I
+  :pattern: CYCGRG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BmgI:
+  :name: BmgI
+  :pattern: gkgccc
+  :len: '6'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+BmgBI:
+  :name: BmgBI
+  :pattern: CACGTC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+BmgT120I:
+  :name: BmgT120I
+  :pattern: GGNCC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+BmiI:
+  :name: BmiI
+  :pattern: GGNNCC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+BmrI:
+  :name: BmrI
+  :pattern: ACTGGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '11'
+  :c2: '10'
+  :c3: '0'
+  :c4: '0'
+BmrFI:
+  :name: BmrFI
+  :pattern: CCNGG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+BmsI:
+  :name: BmsI
+  :pattern: GCATC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '10'
+  :c2: '14'
+  :c3: '0'
+  :c4: '0'
+BmtI:
+  :name: BmtI
+  :pattern: GCTAGC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+BmuI:
+  :name: BmuI
+  :pattern: ACTGGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '11'
+  :c2: '10'
+  :c3: '0'
+  :c4: '0'
+BoxI:
+  :name: BoxI
+  :pattern: GACNNNNGTC
+  :len: '10'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '5'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BpiI:
+  :name: BpiI
+  :pattern: GAAGAC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '8'
+  :c2: '12'
+  :c3: '0'
+  :c4: '0'
+BplI:
+  :name: BplI
+  :pattern: GAGNNNNNCTC
+  :len: '11'
+  :ncuts: '4'
+  :blunt: '0'
+  :c1: '-9'
+  :c2: '-14'
+  :c3: '24'
+  :c4: '19'
+BpmI:
+  :name: BpmI
+  :pattern: CTGGAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '22'
+  :c2: '20'
+  :c3: '0'
+  :c4: '0'
+Bpu10I:
+  :name: Bpu10I
+  :pattern: CCTNAGC
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Bpu14I:
+  :name: Bpu14I
+  :pattern: TTCGAA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+Bpu1102I:
+  :name: Bpu1102I
+  :pattern: GCTNAGC
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BpuAI:
+  :name: BpuAI
+  :pattern: GAAGAC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '8'
+  :c2: '12'
+  :c3: '0'
+  :c4: '0'
+BpuEI:
+  :name: BpuEI
+  :pattern: CTTGAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '22'
+  :c2: '20'
+  :c3: '0'
+  :c4: '0'
+BpuMI:
+  :name: BpuMI
+  :pattern: CCSGG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+BpvUI:
+  :name: BpvUI
+  :pattern: CGATCG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+BsaI:
+  :name: BsaI
+  :pattern: GGTCTC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '11'
+  :c3: '0'
+  :c4: '0'
+Bsa29I:
+  :name: Bsa29I
+  :pattern: ATCGAT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+BsaAI:
+  :name: BsaAI
+  :pattern: YACGTR
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+BsaBI:
+  :name: BsaBI
+  :pattern: GATNNNNATC
+  :len: '10'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '5'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BsaHI:
+  :name: BsaHI
+  :pattern: GRCGYC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+BsaJI:
+  :name: BsaJI
+  :pattern: CCNNGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BsaMI:
+  :name: BsaMI
+  :pattern: GAATGC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BsaWI:
+  :name: BsaWI
+  :pattern: WCCGGW
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BsaXI:
+  :name: BsaXI
+  :pattern: ACNNNNNCTCC
+  :len: '11'
+  :ncuts: '4'
+  :blunt: '0'
+  :c1: '-10'
+  :c2: '-13'
+  :c3: '21'
+  :c4: '18'
+BsbI:
+  :name: BsbI
+  :pattern: caacac
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '27'
+  :c2: '25'
+  :c3: '0'
+  :c4: '0'
+Bsc4I:
+  :name: Bsc4I
+  :pattern: CCNNNNNNNGG
+  :len: '11'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+BscAI:
+  :name: BscAI
+  :pattern: gcatc
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '9'
+  :c2: '11'
+  :c3: '0'
+  :c4: '0'
+BscGI:
+  :name: BscGI
+  :pattern: cccgt
+  :len: '5'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+Bse1I:
+  :name: Bse1I
+  :pattern: ACTGG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '6'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+Bse8I:
+  :name: Bse8I
+  :pattern: GATNNNNATC
+  :len: '10'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '5'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Bse21I:
+  :name: Bse21I
+  :pattern: CCTNAGG
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Bse118I:
+  :name: Bse118I
+  :pattern: RCCGGY
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BseAI:
+  :name: BseAI
+  :pattern: TCCGGA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BseBI:
+  :name: BseBI
+  :pattern: CCWGG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+BseCI:
+  :name: BseCI
+  :pattern: ATCGAT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+BseDI:
+  :name: BseDI
+  :pattern: CCNNGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Bse3DI:
+  :name: Bse3DI
+  :pattern: GCAATG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '8'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+BseGI:
+  :name: BseGI
+  :pattern: GGATG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BseJI:
+  :name: BseJI
+  :pattern: GATNNNNATC
+  :len: '10'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '5'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BseLI:
+  :name: BseLI
+  :pattern: CCNNNNNNNGG
+  :len: '11'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+BseMI:
+  :name: BseMI
+  :pattern: GCAATG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '8'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+BseMII:
+  :name: BseMII
+  :pattern: CTCAG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '15'
+  :c2: '13'
+  :c3: '0'
+  :c4: '0'
+BseNI:
+  :name: BseNI
+  :pattern: ACTGG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '6'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+BsePI:
+  :name: BsePI
+  :pattern: GCGCGC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BseRI:
+  :name: BseRI
+  :pattern: GAGGAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '16'
+  :c2: '14'
+  :c3: '0'
+  :c4: '0'
+BseSI:
+  :name: BseSI
+  :pattern: GKGCMC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+BseXI:
+  :name: BseXI
+  :pattern: GCAGC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '13'
+  :c2: '17'
+  :c3: '0'
+  :c4: '0'
+BseX3I:
+  :name: BseX3I
+  :pattern: CGGCCG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BseYI:
+  :name: BseYI
+  :pattern: CCCAGC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BsgI:
+  :name: BsgI
+  :pattern: GTGCAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '22'
+  :c2: '20'
+  :c3: '0'
+  :c4: '0'
+Bsh1236I:
+  :name: Bsh1236I
+  :pattern: CGCG
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '2'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+Bsh1285I:
+  :name: Bsh1285I
+  :pattern: CGRYCG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+BshFI:
+  :name: BshFI
+  :pattern: GGCC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '2'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+BshNI:
+  :name: BshNI
+  :pattern: GGYRCC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BshTI:
+  :name: BshTI
+  :pattern: ACCGGT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BshVI:
+  :name: BshVI
+  :pattern: ATCGAT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+BsiI:
+  :name: BsiI
+  :pattern: cacgag
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BsiEI:
+  :name: BsiEI
+  :pattern: CGRYCG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+BsiHKAI:
+  :name: BsiHKAI
+  :pattern: GWGCWC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+BsiHKCI:
+  :name: BsiHKCI
+  :pattern: CYCGRG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BsiSI:
+  :name: BsiSI
+  :pattern: CCGG
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+BsiWI:
+  :name: BsiWI
+  :pattern: CGTACG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BsiYI:
+  :name: BsiYI
+  :pattern: ccnnnnnnngg
+  :len: '11'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+BslI:
+  :name: BslI
+  :pattern: CCNNNNNNNGG
+  :len: '11'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+BslFI:
+  :name: BslFI
+  :pattern: GGGAC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '15'
+  :c2: '19'
+  :c3: '0'
+  :c4: '0'
+BsmI:
+  :name: BsmI
+  :pattern: GAATGC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BsmAI:
+  :name: BsmAI
+  :pattern: GTCTC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '6'
+  :c2: '10'
+  :c3: '0'
+  :c4: '0'
+BsmBI:
+  :name: BsmBI
+  :pattern: CGTCTC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '11'
+  :c3: '0'
+  :c4: '0'
+BsmFI:
+  :name: BsmFI
+  :pattern: GGGAC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '15'
+  :c2: '19'
+  :c3: '0'
+  :c4: '0'
+BsnI:
+  :name: BsnI
+  :pattern: GGCC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '2'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+Bso31I:
+  :name: Bso31I
+  :pattern: GGTCTC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '11'
+  :c3: '0'
+  :c4: '0'
+BsoBI:
+  :name: BsoBI
+  :pattern: CYCGRG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Bsp13I:
+  :name: Bsp13I
+  :pattern: TCCGGA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Bsp19I:
+  :name: Bsp19I
+  :pattern: CCATGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Bsp24I:
+  :name: Bsp24I
+  :pattern: gacnnnnnntgg
+  :len: '12'
+  :ncuts: '4'
+  :blunt: '0'
+  :c1: '-9'
+  :c2: '-14'
+  :c3: '24'
+  :c4: '19'
+Bsp68I:
+  :name: Bsp68I
+  :pattern: TCGCGA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+Bsp119I:
+  :name: Bsp119I
+  :pattern: TTCGAA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+Bsp120I:
+  :name: Bsp120I
+  :pattern: GGGCCC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Bsp143I:
+  :name: Bsp143I
+  :pattern: GATC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+Bsp1286I:
+  :name: Bsp1286I
+  :pattern: GDGCHC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+Bsp1407I:
+  :name: Bsp1407I
+  :pattern: TGTACA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Bsp1720I:
+  :name: Bsp1720I
+  :pattern: GCTNAGC
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BspACI:
+  :name: BspACI
+  :pattern: CCGC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+BspCNI:
+  :name: BspCNI
+  :pattern: CTCAG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '14'
+  :c2: '12'
+  :c3: '0'
+  :c4: '0'
+BspDI:
+  :name: BspDI
+  :pattern: ATCGAT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+BspD6I:
+  :name: BspD6I
+  :pattern: gactc
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '9'
+  :c2: '11'
+  :c3: '0'
+  :c4: '0'
+BspEI:
+  :name: BspEI
+  :pattern: TCCGGA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BspFNI:
+  :name: BspFNI
+  :pattern: CGCG
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '2'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+BspGI:
+  :name: BspGI
+  :pattern: ctggac
+  :len: '6'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+BspHI:
+  :name: BspHI
+  :pattern: TCATGA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BspLI:
+  :name: BspLI
+  :pattern: GGNNCC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+BspLU11I:
+  :name: BspLU11I
+  :pattern: acatgt
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BspMI:
+  :name: BspMI
+  :pattern: ACCTGC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '10'
+  :c2: '14'
+  :c3: '0'
+  :c4: '0'
+BspMII:
+  :name: BspMII
+  :pattern: tccgga
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BspNCI:
+  :name: BspNCI
+  :pattern: ccaga
+  :len: '5'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+BspOI:
+  :name: BspOI
+  :pattern: GCTAGC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+BspPI:
+  :name: BspPI
+  :pattern: GGATC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '9'
+  :c2: '10'
+  :c3: '0'
+  :c4: '0'
+BspQI:
+  :name: BspQI
+  :pattern: GCTCTTC
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '8'
+  :c2: '11'
+  :c3: '0'
+  :c4: '0'
+BspTI:
+  :name: BspTI
+  :pattern: CTTAAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BspT104I:
+  :name: BspT104I
+  :pattern: TTCGAA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+BspT107I:
+  :name: BspT107I
+  :pattern: GGYRCC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BsrI:
+  :name: BsrI
+  :pattern: ACTGG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '6'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+BsrBI:
+  :name: BsrBI
+  :pattern: CCGCTC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+BsrDI:
+  :name: BsrDI
+  :pattern: GCAATG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '8'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+BsrFI:
+  :name: BsrFI
+  :pattern: RCCGGY
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BsrGI:
+  :name: BsrGI
+  :pattern: TGTACA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BsrSI:
+  :name: BsrSI
+  :pattern: ACTGG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '6'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+BssAI:
+  :name: BssAI
+  :pattern: RCCGGY
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BssECI:
+  :name: BssECI
+  :pattern: CCNNGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BssHII:
+  :name: BssHII
+  :pattern: GCGCGC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BssKI:
+  :name: BssKI
+  :pattern: CCNGG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BssMI:
+  :name: BssMI
+  :pattern: GATC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+BssNI:
+  :name: BssNI
+  :pattern: GRCGYC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+BssNAI:
+  :name: BssNAI
+  :pattern: GTATAC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+BssSI:
+  :name: BssSI
+  :pattern: CACGAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BssT1I:
+  :name: BssT1I
+  :pattern: CCWWGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Bst6I:
+  :name: Bst6I
+  :pattern: CTCTTC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '10'
+  :c3: '0'
+  :c4: '0'
+Bst98I:
+  :name: Bst98I
+  :pattern: CTTAAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Bst1107I:
+  :name: Bst1107I
+  :pattern: GTATAC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+BstACI:
+  :name: BstACI
+  :pattern: GRCGYC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+BstAFI:
+  :name: BstAFI
+  :pattern: CTTAAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BstAPI:
+  :name: BstAPI
+  :pattern: GCANNNNNTGC
+  :len: '11'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+BstAUI:
+  :name: BstAUI
+  :pattern: TGTACA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BstBI:
+  :name: BstBI
+  :pattern: TTCGAA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+Bst2BI:
+  :name: Bst2BI
+  :pattern: CACGAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BstBAI:
+  :name: BstBAI
+  :pattern: YACGTR
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+Bst4CI:
+  :name: Bst4CI
+  :pattern: ACNGT
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '3'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+BstC8I:
+  :name: BstC8I
+  :pattern: GCNNGC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+BstDEI:
+  :name: BstDEI
+  :pattern: CTNAG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+BstDSI:
+  :name: BstDSI
+  :pattern: CCRYGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BstEII:
+  :name: BstEII
+  :pattern: GGTNACC
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+BstENI:
+  :name: BstENI
+  :pattern: CCTNNNNNAGG
+  :len: '11'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+BstF5I:
+  :name: BstF5I
+  :pattern: GGATG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BstFNI:
+  :name: BstFNI
+  :pattern: CGCG
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '2'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+BstH2I:
+  :name: BstH2I
+  :pattern: RGCGCY
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+BstHHI:
+  :name: BstHHI
+  :pattern: GCGC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '3'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+BstKTI:
+  :name: BstKTI
+  :pattern: GATC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '3'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+BstMAI:
+  :name: BstMAI
+  :pattern: GTCTC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '6'
+  :c2: '10'
+  :c3: '0'
+  :c4: '0'
+BstMBI:
+  :name: BstMBI
+  :pattern: GATC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+BstMCI:
+  :name: BstMCI
+  :pattern: CGRYCG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+BstMWI:
+  :name: BstMWI
+  :pattern: GCNNNNNNNGC
+  :len: '11'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+BstNI:
+  :name: BstNI
+  :pattern: CCWGG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+BstNSI:
+  :name: BstNSI
+  :pattern: RCATGY
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+BstOI:
+  :name: BstOI
+  :pattern: CCWGG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+BstPI:
+  :name: BstPI
+  :pattern: GGTNACC
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+BstPAI:
+  :name: BstPAI
+  :pattern: GACNNNNGTC
+  :len: '10'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '5'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BstSCI:
+  :name: BstSCI
+  :pattern: CCNGG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BstSFI:
+  :name: BstSFI
+  :pattern: CTRYAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BstSLI:
+  :name: BstSLI
+  :pattern: GKGCMC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+BstSNI:
+  :name: BstSNI
+  :pattern: TACGTA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+BstUI:
+  :name: BstUI
+  :pattern: CGCG
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '2'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+Bst2UI:
+  :name: Bst2UI
+  :pattern: CCWGG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+BstV1I:
+  :name: BstV1I
+  :pattern: GCAGC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '13'
+  :c2: '17'
+  :c3: '0'
+  :c4: '0'
+BstV2I:
+  :name: BstV2I
+  :pattern: GAAGAC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '8'
+  :c2: '12'
+  :c3: '0'
+  :c4: '0'
+BstXI:
+  :name: BstXI
+  :pattern: CCANNNNNNTGG
+  :len: '12'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '8'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+BstX2I:
+  :name: BstX2I
+  :pattern: RGATCY
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BstYI:
+  :name: BstYI
+  :pattern: RGATCY
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BstZI:
+  :name: BstZI
+  :pattern: CGGCCG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BstZ17I:
+  :name: BstZ17I
+  :pattern: GTATAC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+BsuI:
+  :name: BsuI
+  :pattern: GTATCC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '12'
+  :c2: '11'
+  :c3: '0'
+  :c4: '0'
+Bsu15I:
+  :name: Bsu15I
+  :pattern: ATCGAT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+Bsu36I:
+  :name: Bsu36I
+  :pattern: CCTNAGG
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BsuRI:
+  :name: BsuRI
+  :pattern: GGCC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '2'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+BsuTUI:
+  :name: BsuTUI
+  :pattern: ATCGAT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+BtgI:
+  :name: BtgI
+  :pattern: CCRYGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BtgZI:
+  :name: BtgZI
+  :pattern: GCGATG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '16'
+  :c2: '20'
+  :c3: '0'
+  :c4: '0'
+BthCI:
+  :name: BthCI
+  :pattern: gcngc
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+BtrI:
+  :name: BtrI
+  :pattern: CACGTC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+BtsI:
+  :name: BtsI
+  :pattern: GCAGTG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '8'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+BtsCI:
+  :name: BtsCI
+  :pattern: GGATG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BtsIMutI:
+  :name: BtsIMutI
+  :pattern: CAGTG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+BtuMI:
+  :name: BtuMI
+  :pattern: TCGCGA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+BveI:
+  :name: BveI
+  :pattern: ACCTGC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '10'
+  :c2: '14'
+  :c3: '0'
+  :c4: '0'
+Cac8I:
+  :name: Cac8I
+  :pattern: GCNNGC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+CaiI:
+  :name: CaiI
+  :pattern: CAGNNNCTG
+  :len: '9'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '6'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+CauII:
+  :name: CauII
+  :pattern: ccsgg
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+CchII:
+  :name: CchII
+  :pattern: ggarga
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '17'
+  :c2: '15'
+  :c3: '0'
+  :c4: '0'
+CchIII:
+  :name: CchIII
+  :pattern: cccaag
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '26'
+  :c2: '24'
+  :c3: '0'
+  :c4: '0'
+CciI:
+  :name: CciI
+  :pattern: TCATGA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+CciNI:
+  :name: CciNI
+  :pattern: GCGGCCGC
+  :len: '8'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+CdiI:
+  :name: CdiI
+  :pattern: catcg
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '4'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+CdpI:
+  :name: CdpI
+  :pattern: gcggag
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '26'
+  :c2: '24'
+  :c3: '0'
+  :c4: '0'
+CelII:
+  :name: CelII
+  :pattern: GCTNAGC
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+CfoI:
+  :name: CfoI
+  :pattern: GCGC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '3'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+CfrI:
+  :name: CfrI
+  :pattern: YGGCCR
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Cfr9I:
+  :name: Cfr9I
+  :pattern: CCCGGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Cfr10I:
+  :name: Cfr10I
+  :pattern: RCCGGY
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Cfr13I:
+  :name: Cfr13I
+  :pattern: GGNCC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+Cfr42I:
+  :name: Cfr42I
+  :pattern: CCGCGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+ChaI:
+  :name: ChaI
+  :pattern: gatc
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '-1'
+  :c3: '0'
+  :c4: '0'
+CjeI:
+  :name: CjeI
+  :pattern: ccannnnnngt
+  :len: '11'
+  :ncuts: '4'
+  :blunt: '0'
+  :c1: '-9'
+  :c2: '-15'
+  :c3: '26'
+  :c4: '20'
+CjeNII:
+  :name: CjeNII
+  :pattern: gagnnnnngt
+  :len: '10'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+CjePI:
+  :name: CjePI
+  :pattern: ccannnnnnntc
+  :len: '12'
+  :ncuts: '4'
+  :blunt: '0'
+  :c1: '-8'
+  :c2: '-14'
+  :c3: '26'
+  :c4: '20'
+CjeP659IV:
+  :name: CjeP659IV
+  :pattern: cacnnnnnnngaa
+  :len: '13'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+CjuI:
+  :name: CjuI
+  :pattern: caynnnnnrtg
+  :len: '11'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+CjuII:
+  :name: CjuII
+  :pattern: caynnnnnctc
+  :len: '11'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+ClaI:
+  :name: ClaI
+  :pattern: ATCGAT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+CpoI:
+  :name: CpoI
+  :pattern: CGGWCCG
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+CseI:
+  :name: CseI
+  :pattern: GACGC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '10'
+  :c2: '15'
+  :c3: '0'
+  :c4: '0'
+CsiI:
+  :name: CsiI
+  :pattern: ACCWGGT
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+CspI:
+  :name: CspI
+  :pattern: CGGWCCG
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Csp6I:
+  :name: Csp6I
+  :pattern: GTAC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+Csp45I:
+  :name: Csp45I
+  :pattern: TTCGAA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+CspAI:
+  :name: CspAI
+  :pattern: ACCGGT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+CspCI:
+  :name: CspCI
+  :pattern: CAANNNNNGTGG
+  :len: '12'
+  :ncuts: '4'
+  :blunt: '0'
+  :c1: '-12'
+  :c2: '-14'
+  :c3: '24'
+  :c4: '22'
+CstMI:
+  :name: CstMI
+  :pattern: aaggag
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '26'
+  :c2: '24'
+  :c3: '0'
+  :c4: '0'
+CviAII:
+  :name: CviAII
+  :pattern: CATG
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+CviJI:
+  :name: CviJI
+  :pattern: RGCY
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '2'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+CviKI-1:
+  :name: CviKI-1
+  :pattern: RGCY
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '2'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+CviQI:
+  :name: CviQI
+  :pattern: GTAC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+CviRI:
+  :name: CviRI
+  :pattern: tgca
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '2'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+DdeI:
+  :name: DdeI
+  :pattern: CTNAG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+DinI:
+  :name: DinI
+  :pattern: GGCGCC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+DpnI:
+  :name: DpnI
+  :pattern: GATC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '2'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+DpnII:
+  :name: DpnII
+  :pattern: GATC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+DraI:
+  :name: DraI
+  :pattern: TTTAAA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+DraII:
+  :name: DraII
+  :pattern: RGGNCCY
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+DraIII:
+  :name: DraIII
+  :pattern: CACNNNGTG
+  :len: '9'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '6'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+DraRI:
+  :name: DraRI
+  :pattern: caagnac
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '27'
+  :c2: '25'
+  :c3: '0'
+  :c4: '0'
+DrdI:
+  :name: DrdI
+  :pattern: GACNNNNNNGTC
+  :len: '12'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+DrdII:
+  :name: DrdII
+  :pattern: gaacca
+  :len: '6'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+DrdIV:
+  :name: DrdIV
+  :pattern: tacgac
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '26'
+  :c2: '24'
+  :c3: '0'
+  :c4: '0'
+DriI:
+  :name: DriI
+  :pattern: GACNNNNNGTC
+  :len: '11'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '6'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+DsaI:
+  :name: DsaI
+  :pattern: ccrygg
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+DseDI:
+  :name: DseDI
+  :pattern: GACNNNNNNGTC
+  :len: '12'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+EaeI:
+  :name: EaeI
+  :pattern: YGGCCR
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+EagI:
+  :name: EagI
+  :pattern: CGGCCG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Eam1104I:
+  :name: Eam1104I
+  :pattern: CTCTTC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '10'
+  :c3: '0'
+  :c4: '0'
+Eam1105I:
+  :name: Eam1105I
+  :pattern: GACNNNNNGTC
+  :len: '11'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '6'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+EarI:
+  :name: EarI
+  :pattern: CTCTTC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '10'
+  :c3: '0'
+  :c4: '0'
+EciI:
+  :name: EciI
+  :pattern: GGCGGA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '17'
+  :c2: '15'
+  :c3: '0'
+  :c4: '0'
+Ecl136II:
+  :name: Ecl136II
+  :pattern: GAGCTC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+EclXI:
+  :name: EclXI
+  :pattern: CGGCCG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Eco24I:
+  :name: Eco24I
+  :pattern: GRGCYC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+Eco31I:
+  :name: Eco31I
+  :pattern: GGTCTC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '11'
+  :c3: '0'
+  :c4: '0'
+Eco32I:
+  :name: Eco32I
+  :pattern: GATATC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+Eco47I:
+  :name: Eco47I
+  :pattern: GGWCC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+Eco47III:
+  :name: Eco47III
+  :pattern: AGCGCT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+Eco52I:
+  :name: Eco52I
+  :pattern: CGGCCG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Eco57I:
+  :name: Eco57I
+  :pattern: CTGAAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '22'
+  :c2: '20'
+  :c3: '0'
+  :c4: '0'
+Eco72I:
+  :name: Eco72I
+  :pattern: CACGTG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+Eco81I:
+  :name: Eco81I
+  :pattern: CCTNAGG
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Eco88I:
+  :name: Eco88I
+  :pattern: CYCGRG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Eco91I:
+  :name: Eco91I
+  :pattern: GGTNACC
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+Eco105I:
+  :name: Eco105I
+  :pattern: TACGTA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+Eco130I:
+  :name: Eco130I
+  :pattern: CCWWGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Eco147I:
+  :name: Eco147I
+  :pattern: AGGCCT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+EcoHI:
+  :name: EcoHI
+  :pattern: ccsgg
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+EcoICRI:
+  :name: EcoICRI
+  :pattern: GAGCTC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+Eco57MI:
+  :name: Eco57MI
+  :pattern: CTGRAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '22'
+  :c2: '20'
+  :c3: '0'
+  :c4: '0'
+EcoNI:
+  :name: EcoNI
+  :pattern: CCTNNNNNAGG
+  :len: '11'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+EcoO65I:
+  :name: EcoO65I
+  :pattern: GGTNACC
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+EcoO109I:
+  :name: EcoO109I
+  :pattern: RGGNCCY
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+EcoRI:
+  :name: EcoRI
+  :pattern: GAATTC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+EcoRII:
+  :name: EcoRII
+  :pattern: CCWGG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+EcoRV:
+  :name: EcoRV
+  :pattern: GATATC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+EcoT14I:
+  :name: EcoT14I
+  :pattern: CCWWGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+EcoT22I:
+  :name: EcoT22I
+  :pattern: ATGCAT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+EcoT38I:
+  :name: EcoT38I
+  :pattern: GRGCYC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+Eco53kI:
+  :name: Eco53kI
+  :pattern: GAGCTC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+EgeI:
+  :name: EgeI
+  :pattern: GGCGCC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+EheI:
+  :name: EheI
+  :pattern: GGCGCC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+ErhI:
+  :name: ErhI
+  :pattern: CCWWGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+EsaBC3I:
+  :name: EsaBC3I
+  :pattern: tcga
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '2'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+EsaSSI:
+  :name: EsaSSI
+  :pattern: gaccac
+  :len: '6'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+EspI:
+  :name: EspI
+  :pattern: gctnagc
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Esp3I:
+  :name: Esp3I
+  :pattern: CGTCTC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '11'
+  :c3: '0'
+  :c4: '0'
+FaeI:
+  :name: FaeI
+  :pattern: CATG
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '-1'
+  :c3: '0'
+  :c4: '0'
+FaiI:
+  :name: FaiI
+  :pattern: YATR
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '2'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+FalI:
+  :name: FalI
+  :pattern: AAGNNNNNCTT
+  :len: '11'
+  :ncuts: '4'
+  :blunt: '0'
+  :c1: '-9'
+  :c2: '-14'
+  :c3: '24'
+  :c4: '19'
+FaqI:
+  :name: FaqI
+  :pattern: GGGAC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '15'
+  :c2: '19'
+  :c3: '0'
+  :c4: '0'
+FatI:
+  :name: FatI
+  :pattern: CATG
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+FauI:
+  :name: FauI
+  :pattern: CCCGC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '9'
+  :c2: '11'
+  :c3: '0'
+  :c4: '0'
+FauNDI:
+  :name: FauNDI
+  :pattern: CATATG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+FbaI:
+  :name: FbaI
+  :pattern: TGATCA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+FblI:
+  :name: FblI
+  :pattern: GTMKAC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+FinI:
+  :name: FinI
+  :pattern: gggac
+  :len: '5'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+FmuI:
+  :name: FmuI
+  :pattern: ggncc
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+FnuDII:
+  :name: FnuDII
+  :pattern: cgcg
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '2'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+Fnu4HI:
+  :name: Fnu4HI
+  :pattern: GCNGC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+FokI:
+  :name: FokI
+  :pattern: GGATG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '14'
+  :c2: '18'
+  :c3: '0'
+  :c4: '0'
+FriOI:
+  :name: FriOI
+  :pattern: GRGCYC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+FseI:
+  :name: FseI
+  :pattern: GGCCGGCC
+  :len: '8'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '6'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+FspI:
+  :name: FspI
+  :pattern: TGCGCA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+FspAI:
+  :name: FspAI
+  :pattern: RTGCGCAY
+  :len: '8'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '4'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+FspBI:
+  :name: FspBI
+  :pattern: CTAG
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+FspEI:
+  :name: FspEI
+  :pattern: CC
+  :len: '2'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '14'
+  :c2: '18'
+  :c3: '0'
+  :c4: '0'
+Fsp4HI:
+  :name: Fsp4HI
+  :pattern: GCNGC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+GdiII:
+  :name: GdiII
+  :pattern: cggccr
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+GlaI:
+  :name: GlaI
+  :pattern: GCGC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '2'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+GluI:
+  :name: GluI
+  :pattern: GCNGC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+GsaI:
+  :name: GsaI
+  :pattern: CCCAGC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+GsuI:
+  :name: GsuI
+  :pattern: CTGGAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '22'
+  :c2: '20'
+  :c3: '0'
+  :c4: '0'
+HaeI:
+  :name: HaeI
+  :pattern: wggccw
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+HaeII:
+  :name: HaeII
+  :pattern: RGCGCY
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+HaeIII:
+  :name: HaeIII
+  :pattern: GGCC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '2'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+HaeIV:
+  :name: HaeIV
+  :pattern: gaynnnnnrtc
+  :len: '11'
+  :ncuts: '4'
+  :blunt: '0'
+  :c1: '-8'
+  :c2: '-14'
+  :c3: '25'
+  :c4: '20'
+HapII:
+  :name: HapII
+  :pattern: CCGG
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+HgaI:
+  :name: HgaI
+  :pattern: GACGC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '10'
+  :c2: '15'
+  :c3: '0'
+  :c4: '0'
+HgiAI:
+  :name: HgiAI
+  :pattern: gwgcwc
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+HgiCI:
+  :name: HgiCI
+  :pattern: ggyrcc
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+HgiEII:
+  :name: HgiEII
+  :pattern: accnnnnnnggt
+  :len: '12'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+HgiJII:
+  :name: HgiJII
+  :pattern: grgcyc
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+HhaI:
+  :name: HhaI
+  :pattern: GCGC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '3'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+Hin1I:
+  :name: Hin1I
+  :pattern: GRCGYC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+Hin1II:
+  :name: Hin1II
+  :pattern: CATG
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '-1'
+  :c3: '0'
+  :c4: '0'
+Hin4I:
+  :name: Hin4I
+  :pattern: GAYNNNNNVTC
+  :len: '11'
+  :ncuts: '4'
+  :blunt: '0'
+  :c1: '-9'
+  :c2: '-14'
+  :c3: '24'
+  :c4: '19'
+Hin4II:
+  :name: Hin4II
+  :pattern: ccttc
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '11'
+  :c2: '10'
+  :c3: '0'
+  :c4: '0'
+Hin6I:
+  :name: Hin6I
+  :pattern: GCGC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+HinP1I:
+  :name: HinP1I
+  :pattern: GCGC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+HincII:
+  :name: HincII
+  :pattern: GTYRAC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+HindII:
+  :name: HindII
+  :pattern: GTYRAC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+HindIII:
+  :name: HindIII
+  :pattern: AAGCTT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+HinfI:
+  :name: HinfI
+  :pattern: GANTC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+HpaI:
+  :name: HpaI
+  :pattern: GTTAAC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+HpaII:
+  :name: HpaII
+  :pattern: CCGG
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+HphI:
+  :name: HphI
+  :pattern: GGTGA
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '13'
+  :c2: '12'
+  :c3: '0'
+  :c4: '0'
+Hpy8I:
+  :name: Hpy8I
+  :pattern: GTNNAC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+Hpy99I:
+  :name: Hpy99I
+  :pattern: CGWCG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '-1'
+  :c3: '0'
+  :c4: '0'
+Hpy166II:
+  :name: Hpy166II
+  :pattern: GTNNAC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+Hpy178III:
+  :name: Hpy178III
+  :pattern: tcnnga
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+Hpy188I:
+  :name: Hpy188I
+  :pattern: TCNGA
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '3'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+Hpy188III:
+  :name: Hpy188III
+  :pattern: TCNNGA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+HpyAV:
+  :name: HpyAV
+  :pattern: CCTTC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '11'
+  :c2: '10'
+  :c3: '0'
+  :c4: '0'
+HpyCH4III:
+  :name: HpyCH4III
+  :pattern: ACNGT
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '3'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+HpyCH4IV:
+  :name: HpyCH4IV
+  :pattern: ACGT
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+HpyCH4V:
+  :name: HpyCH4V
+  :pattern: TGCA
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '2'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+HpyF3I:
+  :name: HpyF3I
+  :pattern: CTNAG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+HpyF10VI:
+  :name: HpyF10VI
+  :pattern: GCNNNNNNNGC
+  :len: '11'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+Hsp92I:
+  :name: Hsp92I
+  :pattern: GRCGYC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+Hsp92II:
+  :name: Hsp92II
+  :pattern: CATG
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '-1'
+  :c3: '0'
+  :c4: '0'
+HspAI:
+  :name: HspAI
+  :pattern: GCGC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+KasI:
+  :name: KasI
+  :pattern: GGCGCC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+KflI:
+  :name: KflI
+  :pattern: GGGWCCC
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+KpnI:
+  :name: KpnI
+  :pattern: GGTACC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+Kpn2I:
+  :name: Kpn2I
+  :pattern: TCCGGA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+KroI:
+  :name: KroI
+  :pattern: GCCGGC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+KspI:
+  :name: KspI
+  :pattern: CCGCGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+Ksp22I:
+  :name: Ksp22I
+  :pattern: TGATCA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Ksp632I:
+  :name: Ksp632I
+  :pattern: ctcttc
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '10'
+  :c3: '0'
+  :c4: '0'
+KspAI:
+  :name: KspAI
+  :pattern: GTTAAC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+Kzo9I:
+  :name: Kzo9I
+  :pattern: GATC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+LguI:
+  :name: LguI
+  :pattern: GCTCTTC
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '8'
+  :c2: '11'
+  :c3: '0'
+  :c4: '0'
+LlaGI:
+  :name: LlaGI
+  :pattern: ctngayg
+  :len: '7'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+LpnI:
+  :name: LpnI
+  :pattern: rgcgcy
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+LpnPI:
+  :name: LpnPI
+  :pattern: CCDG
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '14'
+  :c2: '18'
+  :c3: '0'
+  :c4: '0'
+Lsp1109I:
+  :name: Lsp1109I
+  :pattern: GCAGC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '13'
+  :c2: '17'
+  :c3: '0'
+  :c4: '0'
+LweI:
+  :name: LweI
+  :pattern: GCATC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '10'
+  :c2: '14'
+  :c3: '0'
+  :c4: '0'
+MabI:
+  :name: MabI
+  :pattern: ACCWGGT
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+MaeI:
+  :name: MaeI
+  :pattern: CTAG
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+MaeII:
+  :name: MaeII
+  :pattern: ACGT
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+MaeIII:
+  :name: MaeIII
+  :pattern: GTNAC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+MalI:
+  :name: MalI
+  :pattern: GATC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '2'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+MaqI:
+  :name: MaqI
+  :pattern: crttgac
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '28'
+  :c2: '26'
+  :c3: '0'
+  :c4: '0'
+MauBI:
+  :name: MauBI
+  :pattern: CGCGCGCG
+  :len: '8'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+MbiI:
+  :name: MbiI
+  :pattern: CCGCTC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+MboI:
+  :name: MboI
+  :pattern: GATC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+MboII:
+  :name: MboII
+  :pattern: GAAGA
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '13'
+  :c2: '12'
+  :c3: '0'
+  :c4: '0'
+McaTI:
+  :name: McaTI
+  :pattern: gcgcgc
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+McrI:
+  :name: McrI
+  :pattern: cgrycg
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+MfeI:
+  :name: MfeI
+  :pattern: CAATTG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+MflI:
+  :name: MflI
+  :pattern: RGATCY
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+MhlI:
+  :name: MhlI
+  :pattern: GDGCHC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+MjaIV:
+  :name: MjaIV
+  :pattern: gtnnac
+  :len: '6'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+MlsI:
+  :name: MlsI
+  :pattern: TGGCCA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+MluI:
+  :name: MluI
+  :pattern: ACGCGT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+MluCI:
+  :name: MluCI
+  :pattern: AATT
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+MluNI:
+  :name: MluNI
+  :pattern: TGGCCA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+MlyI:
+  :name: MlyI
+  :pattern: GAGTC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '10'
+  :c2: '10'
+  :c3: '0'
+  :c4: '0'
+Mly113I:
+  :name: Mly113I
+  :pattern: GGCGCC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+MmeI:
+  :name: MmeI
+  :pattern: TCCRAC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '26'
+  :c2: '24'
+  :c3: '0'
+  :c4: '0'
+MnlI:
+  :name: MnlI
+  :pattern: CCTC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '11'
+  :c2: '10'
+  :c3: '0'
+  :c4: '0'
+Mph1103I:
+  :name: Mph1103I
+  :pattern: ATGCAT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+MreI:
+  :name: MreI
+  :pattern: CGCCGGCG
+  :len: '8'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+MroI:
+  :name: MroI
+  :pattern: TCCGGA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+MroNI:
+  :name: MroNI
+  :pattern: GCCGGC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+MroXI:
+  :name: MroXI
+  :pattern: GAANNNNTTC
+  :len: '10'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '5'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+MscI:
+  :name: MscI
+  :pattern: TGGCCA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+MseI:
+  :name: MseI
+  :pattern: TTAA
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+MslI:
+  :name: MslI
+  :pattern: CAYNNNNRTG
+  :len: '10'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '5'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+MspI:
+  :name: MspI
+  :pattern: CCGG
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+Msp20I:
+  :name: Msp20I
+  :pattern: TGGCCA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+MspA1I:
+  :name: MspA1I
+  :pattern: CMGCKG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+MspCI:
+  :name: MspCI
+  :pattern: CTTAAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+MspJI:
+  :name: MspJI
+  :pattern: CNNR
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '13'
+  :c2: '17'
+  :c3: '0'
+  :c4: '0'
+MspR9I:
+  :name: MspR9I
+  :pattern: CCNGG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+MssI:
+  :name: MssI
+  :pattern: GTTTAAAC
+  :len: '8'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '4'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+MstI:
+  :name: MstI
+  :pattern: tgcgca
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+MunI:
+  :name: MunI
+  :pattern: CAATTG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+MvaI:
+  :name: MvaI
+  :pattern: CCWGG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+Mva1269I:
+  :name: Mva1269I
+  :pattern: GAATGC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+MvnI:
+  :name: MvnI
+  :pattern: CGCG
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '2'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+MvrI:
+  :name: MvrI
+  :pattern: CGATCG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+MwoI:
+  :name: MwoI
+  :pattern: GCNNNNNNNGC
+  :len: '11'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+NaeI:
+  :name: NaeI
+  :pattern: GCCGGC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+NarI:
+  :name: NarI
+  :pattern: GGCGCC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+NciI:
+  :name: NciI
+  :pattern: CCSGG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+NcoI:
+  :name: NcoI
+  :pattern: CCATGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+NdeI:
+  :name: NdeI
+  :pattern: CATATG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+NdeII:
+  :name: NdeII
+  :pattern: GATC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+NgoAVIII:
+  :name: NgoAVIII
+  :pattern: gacnnnnntga
+  :len: '11'
+  :ncuts: '4'
+  :blunt: '0'
+  :c1: '-13'
+  :c2: '-15'
+  :c3: '24'
+  :c4: '22'
+NgoMIV:
+  :name: NgoMIV
+  :pattern: GCCGGC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+NhaXI:
+  :name: NhaXI
+  :pattern: caagrag
+  :len: '7'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+NheI:
+  :name: NheI
+  :pattern: GCTAGC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+NlaIII:
+  :name: NlaIII
+  :pattern: CATG
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '-1'
+  :c3: '0'
+  :c4: '0'
+NlaIV:
+  :name: NlaIV
+  :pattern: GGNNCC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+NlaCI:
+  :name: NlaCI
+  :pattern: catcac
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '25'
+  :c2: '23'
+  :c3: '0'
+  :c4: '0'
+Nli3877I:
+  :name: Nli3877I
+  :pattern: cycgrg
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+NmeAIII:
+  :name: NmeAIII
+  :pattern: GCCGAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '27'
+  :c2: '25'
+  :c3: '0'
+  :c4: '0'
+NmeDI:
+  :name: NmeDI
+  :pattern: rccggy
+  :len: '6'
+  :ncuts: '4'
+  :blunt: '0'
+  :c1: '-13'
+  :c2: '-8'
+  :c3: '13'
+  :c4: '18'
+NmuCI:
+  :name: NmuCI
+  :pattern: GTSAC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+NotI:
+  :name: NotI
+  :pattern: GCGGCCGC
+  :len: '8'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+NruI:
+  :name: NruI
+  :pattern: TCGCGA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+NsbI:
+  :name: NsbI
+  :pattern: TGCGCA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+NsiI:
+  :name: NsiI
+  :pattern: ATGCAT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+NspI:
+  :name: NspI
+  :pattern: RCATGY
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+NspV:
+  :name: NspV
+  :pattern: TTCGAA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+NspBII:
+  :name: NspBII
+  :pattern: cmgckg
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+OliI:
+  :name: OliI
+  :pattern: CACNNNNGTG
+  :len: '10'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '5'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+PabI:
+  :name: PabI
+  :pattern: gtac
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '3'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+PacI:
+  :name: PacI
+  :pattern: TTAATTAA
+  :len: '8'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+PaeI:
+  :name: PaeI
+  :pattern: GCATGC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+PaeR7I:
+  :name: PaeR7I
+  :pattern: CTCGAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+PagI:
+  :name: PagI
+  :pattern: TCATGA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+PalAI:
+  :name: PalAI
+  :pattern: GGCGCGCC
+  :len: '8'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+PasI:
+  :name: PasI
+  :pattern: CCCWGGG
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+PauI:
+  :name: PauI
+  :pattern: GCGCGC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+PceI:
+  :name: PceI
+  :pattern: AGGCCT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+PciI:
+  :name: PciI
+  :pattern: ACATGT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+PciSI:
+  :name: PciSI
+  :pattern: GCTCTTC
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '8'
+  :c2: '11'
+  :c3: '0'
+  :c4: '0'
+PcsI:
+  :name: PcsI
+  :pattern: WCGNNNNNNNCGW
+  :len: '13'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+PctI:
+  :name: PctI
+  :pattern: GAATGC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+PdiI:
+  :name: PdiI
+  :pattern: GCCGGC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+PdmI:
+  :name: PdmI
+  :pattern: GAANNNNTTC
+  :len: '10'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '5'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+PfeI:
+  :name: PfeI
+  :pattern: GAWTC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+Pfl23II:
+  :name: Pfl23II
+  :pattern: CGTACG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Pfl1108I:
+  :name: Pfl1108I
+  :pattern: tcgtag
+  :len: '6'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+PflFI:
+  :name: PflFI
+  :pattern: GACNNNGTC
+  :len: '9'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+PflMI:
+  :name: PflMI
+  :pattern: CCANNNNNTGG
+  :len: '11'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+PfoI:
+  :name: PfoI
+  :pattern: TCCNGGA
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+PhoI:
+  :name: PhoI
+  :pattern: GGCC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '2'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+PinAI:
+  :name: PinAI
+  :pattern: ACCGGT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+PlaDI:
+  :name: PlaDI
+  :pattern: catcag
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '27'
+  :c2: '25'
+  :c3: '0'
+  :c4: '0'
+PleI:
+  :name: PleI
+  :pattern: GAGTC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '9'
+  :c2: '10'
+  :c3: '0'
+  :c4: '0'
+Ple19I:
+  :name: Ple19I
+  :pattern: CGATCG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+PmaCI:
+  :name: PmaCI
+  :pattern: CACGTG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+PmeI:
+  :name: PmeI
+  :pattern: GTTTAAAC
+  :len: '8'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '4'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+PmlI:
+  :name: PmlI
+  :pattern: CACGTG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+PpiI:
+  :name: PpiI
+  :pattern: GAACNNNNNCTC
+  :len: '12'
+  :ncuts: '4'
+  :blunt: '0'
+  :c1: '-8'
+  :c2: '-13'
+  :c3: '25'
+  :c4: '20'
+PpsI:
+  :name: PpsI
+  :pattern: GAGTC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '9'
+  :c2: '10'
+  :c3: '0'
+  :c4: '0'
+Ppu10I:
+  :name: Ppu10I
+  :pattern: atgcat
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Ppu21I:
+  :name: Ppu21I
+  :pattern: YACGTR
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+PpuMI:
+  :name: PpuMI
+  :pattern: RGGWCCY
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+PscI:
+  :name: PscI
+  :pattern: ACATGT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+PshAI:
+  :name: PshAI
+  :pattern: GACNNNNGTC
+  :len: '10'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '5'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+PshBI:
+  :name: PshBI
+  :pattern: ATTAAT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+PsiI:
+  :name: PsiI
+  :pattern: TTATAA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+Psp03I:
+  :name: Psp03I
+  :pattern: ggwcc
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+Psp5II:
+  :name: Psp5II
+  :pattern: RGGWCCY
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Psp6I:
+  :name: Psp6I
+  :pattern: CCWGG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Psp1406I:
+  :name: Psp1406I
+  :pattern: AACGTT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+Psp124BI:
+  :name: Psp124BI
+  :pattern: GAGCTC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+PspCI:
+  :name: PspCI
+  :pattern: CACGTG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+PspEI:
+  :name: PspEI
+  :pattern: GGTNACC
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+PspGI:
+  :name: PspGI
+  :pattern: CCWGG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+PspLI:
+  :name: PspLI
+  :pattern: CGTACG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+PspN4I:
+  :name: PspN4I
+  :pattern: GGNNCC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+PspOMI:
+  :name: PspOMI
+  :pattern: GGGCCC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+PspOMII:
+  :name: PspOMII
+  :pattern: cgcccar
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '27'
+  :c2: '25'
+  :c3: '0'
+  :c4: '0'
+PspPI:
+  :name: PspPI
+  :pattern: GGNCC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+PspPPI:
+  :name: PspPPI
+  :pattern: RGGWCCY
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+PspPRI:
+  :name: PspPRI
+  :pattern: ccycag
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '21'
+  :c2: '19'
+  :c3: '0'
+  :c4: '0'
+PspXI:
+  :name: PspXI
+  :pattern: VCTCGAGB
+  :len: '8'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+PsrI:
+  :name: PsrI
+  :pattern: GAACNNNNNNTAC
+  :len: '13'
+  :ncuts: '4'
+  :blunt: '0'
+  :c1: '-8'
+  :c2: '-13'
+  :c3: '25'
+  :c4: '20'
+PssI:
+  :name: PssI
+  :pattern: rggnccy
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+PstI:
+  :name: PstI
+  :pattern: CTGCAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+PstNI:
+  :name: PstNI
+  :pattern: CAGNNNCTG
+  :len: '9'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '6'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+PsuI:
+  :name: PsuI
+  :pattern: RGATCY
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+PsyI:
+  :name: PsyI
+  :pattern: GACNNNGTC
+  :len: '9'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+PteI:
+  :name: PteI
+  :pattern: GCGCGC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+PvuI:
+  :name: PvuI
+  :pattern: CGATCG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+PvuII:
+  :name: PvuII
+  :pattern: CAGCTG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+RcaI:
+  :name: RcaI
+  :pattern: TCATGA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+RceI:
+  :name: RceI
+  :pattern: catcgac
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '27'
+  :c2: '25'
+  :c3: '0'
+  :c4: '0'
+RdeGBI:
+  :name: RdeGBI
+  :pattern: ccgcag
+  :len: '6'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+RdeGBII:
+  :name: RdeGBII
+  :pattern: acccag
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '26'
+  :c2: '24'
+  :c3: '0'
+  :c4: '0'
+RdeGBIII:
+  :name: RdeGBIII
+  :pattern: tgryca
+  :len: '6'
+  :ncuts: '4'
+  :blunt: '0'
+  :c1: '-10'
+  :c2: '-12'
+  :c3: '17'
+  :c4: '15'
+RflFIII:
+  :name: RflFIII
+  :pattern: cgccag
+  :len: '6'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+RgaI:
+  :name: RgaI
+  :pattern: GCGATCGC
+  :len: '8'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+RigI:
+  :name: RigI
+  :pattern: GGCCGGCC
+  :len: '8'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '6'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+RlaI:
+  :name: RlaI
+  :pattern: vcw
+  :len: '3'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+RleAI:
+  :name: RleAI
+  :pattern: cccaca
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '18'
+  :c2: '15'
+  :c3: '0'
+  :c4: '0'
+RpaI:
+  :name: RpaI
+  :pattern: gtyggag
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '18'
+  :c2: '16'
+  :c3: '0'
+  :c4: '0'
+RpaBI:
+  :name: RpaBI
+  :pattern: cccgcag
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '27'
+  :c2: '25'
+  :c3: '0'
+  :c4: '0'
+RpaB5I:
+  :name: RpaB5I
+  :pattern: cgrggac
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '27'
+  :c2: '25'
+  :c3: '0'
+  :c4: '0'
+RruI:
+  :name: RruI
+  :pattern: TCGCGA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+RsaI:
+  :name: RsaI
+  :pattern: GTAC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '2'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+RsaNI:
+  :name: RsaNI
+  :pattern: GTAC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+RseI:
+  :name: RseI
+  :pattern: CAYNNNNRTG
+  :len: '10'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '5'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+RsrII:
+  :name: RsrII
+  :pattern: CGGWCCG
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Rsr2I:
+  :name: Rsr2I
+  :pattern: CGGWCCG
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+SacI:
+  :name: SacI
+  :pattern: GAGCTC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+SacII:
+  :name: SacII
+  :pattern: CCGCGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+SalI:
+  :name: SalI
+  :pattern: GTCGAC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+SanDI:
+  :name: SanDI
+  :pattern: gggwccc
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+SapI:
+  :name: SapI
+  :pattern: GCTCTTC
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '8'
+  :c2: '11'
+  :c3: '0'
+  :c4: '0'
+SaqAI:
+  :name: SaqAI
+  :pattern: TTAA
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+SatI:
+  :name: SatI
+  :pattern: GCNGC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+SauI:
+  :name: SauI
+  :pattern: cctnagg
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Sau96I:
+  :name: Sau96I
+  :pattern: GGNCC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+Sau3AI:
+  :name: Sau3AI
+  :pattern: GATC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+SbfI:
+  :name: SbfI
+  :pattern: CCTGCAGG
+  :len: '8'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '6'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+ScaI:
+  :name: ScaI
+  :pattern: AGTACT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+SchI:
+  :name: SchI
+  :pattern: GAGTC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '10'
+  :c2: '10'
+  :c3: '0'
+  :c4: '0'
+SciI:
+  :name: SciI
+  :pattern: ctcgag
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+ScrFI:
+  :name: ScrFI
+  :pattern: CCNGG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+SdaI:
+  :name: SdaI
+  :pattern: CCTGCAGG
+  :len: '8'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '6'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+SdeAI:
+  :name: SdeAI
+  :pattern: cagrag
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '27'
+  :c2: '25'
+  :c3: '0'
+  :c4: '0'
+SdeOSI:
+  :name: SdeOSI
+  :pattern: gacnnnnrtga
+  :len: '11'
+  :ncuts: '4'
+  :blunt: '0'
+  :c1: '-12'
+  :c2: '-14'
+  :c3: '23'
+  :c4: '21'
+SduI:
+  :name: SduI
+  :pattern: GDGCHC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+SecI:
+  :name: SecI
+  :pattern: ccnngg
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+SelI:
+  :name: SelI
+  :pattern: cgcg
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+SetI:
+  :name: SetI
+  :pattern: ASST
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '-1'
+  :c3: '0'
+  :c4: '0'
+SexAI:
+  :name: SexAI
+  :pattern: ACCWGGT
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+SfaAI:
+  :name: SfaAI
+  :pattern: GCGATCGC
+  :len: '8'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+SfaNI:
+  :name: SfaNI
+  :pattern: GCATC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '10'
+  :c2: '14'
+  :c3: '0'
+  :c4: '0'
+SfcI:
+  :name: SfcI
+  :pattern: CTRYAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+SfeI:
+  :name: SfeI
+  :pattern: ctryag
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+SfiI:
+  :name: SfiI
+  :pattern: GGCCNNNNNGGCC
+  :len: '13'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '8'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+SfoI:
+  :name: SfoI
+  :pattern: GGCGCC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+Sfr274I:
+  :name: Sfr274I
+  :pattern: CTCGAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Sfr303I:
+  :name: Sfr303I
+  :pattern: CCGCGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+SfuI:
+  :name: SfuI
+  :pattern: TTCGAA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+SgeI:
+  :name: SgeI
+  :pattern: CNNG
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '13'
+  :c2: '17'
+  :c3: '0'
+  :c4: '0'
+SgfI:
+  :name: SgfI
+  :pattern: GCGATCGC
+  :len: '8'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+SgrAI:
+  :name: SgrAI
+  :pattern: CRCCGGYG
+  :len: '8'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+SgrBI:
+  :name: SgrBI
+  :pattern: CCGCGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+SgrDI:
+  :name: SgrDI
+  :pattern: CGTCGACG
+  :len: '8'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+SgrTI:
+  :name: SgrTI
+  :pattern: ccds
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '14'
+  :c2: '18'
+  :c3: '0'
+  :c4: '0'
+SgsI:
+  :name: SgsI
+  :pattern: GGCGCGCC
+  :len: '8'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+SimI:
+  :name: SimI
+  :pattern: gggtc
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+SinI:
+  :name: SinI
+  :pattern: GGWCC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+SlaI:
+  :name: SlaI
+  :pattern: CTCGAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+SmaI:
+  :name: SmaI
+  :pattern: CCCGGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+SmiI:
+  :name: SmiI
+  :pattern: ATTTAAAT
+  :len: '8'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '4'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+SmiMI:
+  :name: SmiMI
+  :pattern: CAYNNNNRTG
+  :len: '10'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '5'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+SmlI:
+  :name: SmlI
+  :pattern: CTYRAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+SmoI:
+  :name: SmoI
+  :pattern: CTYRAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+SmuI:
+  :name: SmuI
+  :pattern: CCCGC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '9'
+  :c2: '11'
+  :c3: '0'
+  :c4: '0'
+SnaI:
+  :name: SnaI
+  :pattern: gtatac
+  :len: '6'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+SnaBI:
+  :name: SnaBI
+  :pattern: TACGTA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+Sno506I:
+  :name: Sno506I
+  :pattern: ggccgag
+  :len: '7'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+SpeI:
+  :name: SpeI
+  :pattern: ACTAGT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+SphI:
+  :name: SphI
+  :pattern: GCATGC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+SplI:
+  :name: SplI
+  :pattern: cgtacg
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+SpoDI:
+  :name: SpoDI
+  :pattern: gcggrag
+  :len: '7'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+SrfI:
+  :name: SrfI
+  :pattern: GCCCGGGC
+  :len: '8'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '4'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+Sse9I:
+  :name: Sse9I
+  :pattern: AATT
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+Sse232I:
+  :name: Sse232I
+  :pattern: cgccggcg
+  :len: '8'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+Sse8387I:
+  :name: Sse8387I
+  :pattern: CCTGCAGG
+  :len: '8'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '6'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+Sse8647I:
+  :name: Sse8647I
+  :pattern: aggwcct
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+SseBI:
+  :name: SseBI
+  :pattern: AGGCCT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+SsiI:
+  :name: SsiI
+  :pattern: CCGC
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+SspI:
+  :name: SspI
+  :pattern: AATATT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+SspDI:
+  :name: SspDI
+  :pattern: GGCGCC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+SspD5I:
+  :name: SspD5I
+  :pattern: ggtga
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '13'
+  :c2: '13'
+  :c3: '0'
+  :c4: '0'
+SstI:
+  :name: SstI
+  :pattern: GAGCTC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+SstII:
+  :name: SstII
+  :pattern: CCGCGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+SstE37I:
+  :name: SstE37I
+  :pattern: cgaagac
+  :len: '7'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '27'
+  :c2: '25'
+  :c3: '0'
+  :c4: '0'
+Sth132I:
+  :name: Sth132I
+  :pattern: cccg
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '8'
+  :c2: '12'
+  :c3: '0'
+  :c4: '0'
+Sth302II:
+  :name: Sth302II
+  :pattern: ccgg
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '2'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+StrI:
+  :name: StrI
+  :pattern: CTCGAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+StsI:
+  :name: StsI
+  :pattern: ggatg
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '15'
+  :c2: '19'
+  :c3: '0'
+  :c4: '0'
+StuI:
+  :name: StuI
+  :pattern: AGGCCT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+StyI:
+  :name: StyI
+  :pattern: CCWWGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+StyD4I:
+  :name: StyD4I
+  :pattern: CCNGG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+SwaI:
+  :name: SwaI
+  :pattern: ATTTAAAT
+  :len: '8'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '4'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+TaaI:
+  :name: TaaI
+  :pattern: ACNGT
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '3'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+TaiI:
+  :name: TaiI
+  :pattern: ACGT
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '-1'
+  :c3: '0'
+  :c4: '0'
+TaqI:
+  :name: TaqI
+  :pattern: TCGA
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+TaqII:
+  :name: TaqII
+  :pattern: CACCCA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '17'
+  :c2: '15'
+  :c3: '0'
+  :c4: '0'
+TasI:
+  :name: TasI
+  :pattern: AATT
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+TatI:
+  :name: TatI
+  :pattern: WGTACW
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+TauI:
+  :name: TauI
+  :pattern: GCSGC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+TfiI:
+  :name: TfiI
+  :pattern: GAWTC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+TliI:
+  :name: TliI
+  :pattern: CTCGAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Tru1I:
+  :name: Tru1I
+  :pattern: TTAA
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+Tru9I:
+  :name: Tru9I
+  :pattern: TTAA
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+TscAI:
+  :name: TscAI
+  :pattern: CASTG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '-3'
+  :c3: '0'
+  :c4: '0'
+TseI:
+  :name: TseI
+  :pattern: GCWGC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+TsoI:
+  :name: TsoI
+  :pattern: TARCCA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '17'
+  :c2: '15'
+  :c3: '0'
+  :c4: '0'
+Tsp45I:
+  :name: Tsp45I
+  :pattern: GTSAC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Tsp509I:
+  :name: Tsp509I
+  :pattern: AATT
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+Tsp4CI:
+  :name: Tsp4CI
+  :pattern: acngt
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '3'
+  :c2: '2'
+  :c3: '0'
+  :c4: '0'
+TspDTI:
+  :name: TspDTI
+  :pattern: ATGAA
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '16'
+  :c2: '14'
+  :c3: '0'
+  :c4: '0'
+TspEI:
+  :name: TspEI
+  :pattern: AATT
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+TspGWI:
+  :name: TspGWI
+  :pattern: ACGGA
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '16'
+  :c2: '14'
+  :c3: '0'
+  :c4: '0'
+TspMI:
+  :name: TspMI
+  :pattern: CCCGGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+TspRI:
+  :name: TspRI
+  :pattern: CASTG
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '-3'
+  :c3: '0'
+  :c4: '0'
+TssI:
+  :name: TssI
+  :pattern: gagnnnctc
+  :len: '9'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+TstI:
+  :name: TstI
+  :pattern: CACNNNNNNTCC
+  :len: '12'
+  :ncuts: '4'
+  :blunt: '0'
+  :c1: '-9'
+  :c2: '-14'
+  :c3: '24'
+  :c4: '19'
+TsuI:
+  :name: TsuI
+  :pattern: gcgac
+  :len: '5'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+Tth111I:
+  :name: Tth111I
+  :pattern: GACNNNGTC
+  :len: '9'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '4'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Tth111II:
+  :name: Tth111II
+  :pattern: caarca
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '17'
+  :c2: '15'
+  :c3: '0'
+  :c4: '0'
+UbaF9I:
+  :name: UbaF9I
+  :pattern: tacnnnnnrtgt
+  :len: '12'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+UbaF11I:
+  :name: UbaF11I
+  :pattern: tcgta
+  :len: '5'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+UbaF12I:
+  :name: UbaF12I
+  :pattern: ctacnnngtc
+  :len: '10'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+UbaF13I:
+  :name: UbaF13I
+  :pattern: gagnnnnnnctgg
+  :len: '13'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+UbaF14I:
+  :name: UbaF14I
+  :pattern: ccannnnntcg
+  :len: '11'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+UbaPI:
+  :name: UbaPI
+  :pattern: cgaacg
+  :len: '6'
+  :ncuts: '0'
+  :blunt: '0'
+  :c1: '0'
+  :c2: '0'
+  :c3: '0'
+  :c4: '0'
+UcoMSI:
+  :name: UcoMSI
+  :pattern: gagctc
+  :len: '6'
+  :ncuts: '4'
+  :blunt: '0'
+  :c1: '-8'
+  :c2: '-6'
+  :c3: '11'
+  :c4: '13'
+UnbI:
+  :name: UnbI
+  :pattern: ggncc
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+Van91I:
+  :name: Van91I
+  :pattern: CCANNNNNTGG
+  :len: '11'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '7'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+Vha464I:
+  :name: Vha464I
+  :pattern: CTTAAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+VneI:
+  :name: VneI
+  :pattern: GTGCAC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+VpaK11AI:
+  :name: VpaK11AI
+  :pattern: ggwcc
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '-1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+VpaK11BI:
+  :name: VpaK11BI
+  :pattern: GGWCC
+  :len: '5'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+VspI:
+  :name: VspI
+  :pattern: ATTAAT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+WviI:
+  :name: WviI
+  :pattern: cacrag
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '27'
+  :c2: '25'
+  :c3: '0'
+  :c4: '0'
+XagI:
+  :name: XagI
+  :pattern: CCTNNNNNAGG
+  :len: '11'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '6'
+  :c3: '0'
+  :c4: '0'
+XapI:
+  :name: XapI
+  :pattern: RAATTY
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+XbaI:
+  :name: XbaI
+  :pattern: TCTAGA
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+XceI:
+  :name: XceI
+  :pattern: RCATGY
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'
+XcmI:
+  :name: XcmI
+  :pattern: CCANNNNNNNNNTGG
+  :len: '15'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '8'
+  :c2: '7'
+  :c3: '0'
+  :c4: '0'
+XhoI:
+  :name: XhoI
+  :pattern: CTCGAG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+XhoII:
+  :name: XhoII
+  :pattern: RGATCY
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+XmaI:
+  :name: XmaI
+  :pattern: CCCGGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+XmaIII:
+  :name: XmaIII
+  :pattern: cggccg
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+XmaJI:
+  :name: XmaJI
+  :pattern: CCTAGG
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+XmiI:
+  :name: XmiI
+  :pattern: GTMKAC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '2'
+  :c2: '4'
+  :c3: '0'
+  :c4: '0'
+XmnI:
+  :name: XmnI
+  :pattern: GAANNNNTTC
+  :len: '10'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '5'
+  :c2: '5'
+  :c3: '0'
+  :c4: '0'
+XspI:
+  :name: XspI
+  :pattern: CTAG
+  :len: '4'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '1'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+ZraI:
+  :name: ZraI
+  :pattern: GACGTC
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+ZrmI:
+  :name: ZrmI
+  :pattern: AGTACT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '1'
+  :c1: '3'
+  :c2: '3'
+  :c3: '0'
+  :c4: '0'
+Zsp2I:
+  :name: Zsp2I
+  :pattern: ATGCAT
+  :len: '6'
+  :ncuts: '2'
+  :blunt: '0'
+  :c1: '5'
+  :c2: '1'
+  :c3: '0'
+  :c4: '0'

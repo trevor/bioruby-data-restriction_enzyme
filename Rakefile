@@ -14,13 +14,12 @@ require 'rake'
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
-  gem.name = "bio-data-restriction_enzyme"
-  gem.homepage = "http://github.com/trevor/bioruby-data-restriction_enzyme"
-  gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
-  gem.email = "trevor@well.com"
-  gem.authors = ["Trevor Wennblom"]
+  gem.name = 'bio-data-restriction_enzyme'
+  gem.homepage = 'http://github.com/trevor/bioruby-data-restriction_enzyme'
+  gem.summary = %Q{Restriction Enzyme Dataset}
+  gem.description = %Q{Restriction Enzyme Dataset from REBASE in yaml form}
+  gem.email = 'trevor@well.com'
+  gem.authors = ['Sir Richard J. Roberts', 'Trevor Wennblom']
   # dependencies defined in Gemfile
 end
 Jeweler::RubygemsDotOrgTasks.new

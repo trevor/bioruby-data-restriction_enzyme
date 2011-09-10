@@ -1,19 +1,10 @@
 = bio-data-restriction_enzyme
 
-Description goes here.
+Restriction Enzyme Dataset from REBASE in yaml form
 
-== Contributing to bio-data-restriction_enzyme
- 
-* Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet
-* Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it
-* Fork the project
-* Start a feature/bugfix branch
-* Commit and push until you are happy with your contribution
-* Make sure to add tests for it. This is important so I don't break it in a future version unintentionally.
-* Please try not to mess with the Rakefile, version, or history. If you want to have your own version, or is otherwise necessary, that is fine, but please isolate to its own commit so I can cherry-pick around it.
+http://rebase.neb.com/rebase/link_emboss_e
 
-== Copyright
-
-Copyright (c) 2011 Trevor Wennblom. See LICENSE.txt for
-further details.
-
+REBASE, The Restriction Enzyme Database   http://rebase.neb.com
+Copyright (c)  Dr. Richard J. Roberts, 2011.   All rights reserved.
+Rich Roberts
+Aug 29 2011
