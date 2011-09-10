@@ -1,4 +1,5 @@
 lib/**/*.rb
+lib/**/*.yaml
 bin/*
 - 
 features/**/*.feature
