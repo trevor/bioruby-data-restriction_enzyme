@@ -22,7 +22,9 @@ Gem::Specification.new do |s|
     "LICENSE.txt",
     "README.rdoc",
     "Rakefile",
-    "VERSION"
+    "VERSION",
+    "bio-data-restriction_enzyme.gemspec",
+    "lib/bio/data/enzymes.yaml"
   ]
   s.homepage = "http://github.com/trevor/bioruby-data-restriction_enzyme"
   s.require_paths = ["lib"]
